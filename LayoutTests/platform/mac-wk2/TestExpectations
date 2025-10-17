@@ -1310,8 +1310,6 @@ webkit.org/b/229561 http/tests/navigation/page-cache-video.html [ Pass Failure ]
 
 webkit.org/b/231088 [ Release ] http/tests/loading/preload-slow-loading.py [ Pass Failure ]
 
-webkit.org/b/228127 imported/w3c/web-platform-tests/html/cross-origin-opener-policy/resource-popup.https.html [ Pass Crash Failure ]
-
 webkit.org/b/229585 imported/w3c/web-platform-tests/navigation-timing/test_performance_attributes.sub.html [ Pass Failure ]
 
 webkit.org/b/229595 imported/w3c/web-platform-tests/fetch/http-cache/invalidate.any.worker.html [ Pass Failure ]
@@ -2396,7 +2394,5 @@ webkit.org/b/299561 imported/w3c/web-platform-tests/css/css-anchor-position/anch
 webkit.org/b/299830 imported/w3c/web-platform-tests/storage-access-api/hasStorageAccess-insecure.sub.window.html [ Pass Failure ]
 
 webkit.org/b/299826 [ Release x86_64 ] media/modern-media-controls/media-controller/media-controller-click-on-video-background-should-pause.html [ Crash ]
-
-webkit.org/b/300864 [ Debug ] imported/w3c/web-platform-tests/editing/crashtests/insertHTML-before-comment-at-end-of-editing-host.html [ Skip ]
 
 webkit.org/b/300864 imported/w3c/web-platform-tests/css/css-viewport/zoom/filters-drop-shadow.html [ Pass Failure ]
