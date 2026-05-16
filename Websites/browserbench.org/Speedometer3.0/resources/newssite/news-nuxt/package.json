@@ -13,10 +13,10 @@
         "format": "npm run pretty:fix ; npm run lint:fix"
     },
     "devDependencies": {
-        "@nuxt/eslint-config": "^0.1.1",
+        "@nuxt/eslint-config": "^1.15.1",
         "@types/node": "^18",
-        "eslint": "^8.41.0",
-        "nuxt": "^3.5.2",
+        "eslint": "^10.0.1",
+        "nuxt": "^3.21.1",
         "prettier": "^2.8.8"
     },
     "dependencies": {
